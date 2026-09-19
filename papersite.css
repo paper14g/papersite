@@ -4,7 +4,7 @@ body {
 h1{
     color: white;
     text-align: center;
-    font-family: monospace;
+    font-family: 'Courier New', Courier, monospace;
     margin: 20px;
 }
 .top nav {
@@ -17,6 +17,31 @@ h1{
     margin: 0 20px;
 }
 .top .blurb{
+    color: #ffffff;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:5%;
+}
+.about{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.abt{
+     color: #ffffff;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:5%;
+}
+.project{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.proj{
+    color: #ffffff;
     text-align: center;
     font-size: 75%;
     font-family: 'Courier New', Courier, monospace;
