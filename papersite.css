@@ -1,6 +1,26 @@
-
-body{
-    background-color: limegreen;
+body {
+    background-color: #000000;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    margin: 20px;
+}
+.top nav {
+    text-align: center;
+}
+.top nav .link{
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.top .blurb{
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:5%;
 }
 .panel{
     height: 100px;
