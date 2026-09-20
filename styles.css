@@ -50,9 +50,20 @@ h1{
 .clock{
     display: block;
     margin: auto;
-    width: 50%;
 }
 .capt{
+    color: #ffffff;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:5%;
+}
+.mission{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.msn{
     color: #ffffff;
     text-align: center;
     font-size: 75%;
