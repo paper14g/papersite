@@ -47,6 +47,13 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     margin:5%;
 }
+.capt{
+    color: #ffffff;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:5%;
+}
 .panel{
     height: 100px;
     width: 150px;
