@@ -47,6 +47,11 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     margin:5%;
 }
+.clock{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
 .capt{
     color: #ffffff;
     text-align: center;
@@ -54,26 +59,8 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     margin:5%;
 }
-.panel{
-    height: 100px;
-    width: 150px;
-    background-color: darksalmon;
-}
-
-.intro{
-        height: 50px;
-        width: 100px;
-        background-color: aquamarine;
-}
-
-.box2{
-    height: 100px;
-    width: 100px;
-    background-color: aquamarine;
-}
-
-#text{
-    font-size: 30px;
-    color:brown;
-    text-align:center;
+.credits{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
