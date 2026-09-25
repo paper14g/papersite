@@ -47,9 +47,10 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     margin:5%;
 }
-.clock{
+.projectimage{
     display: block;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 .capt{
     color: #ffffff;
