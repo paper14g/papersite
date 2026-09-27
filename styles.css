@@ -98,3 +98,7 @@ h1{
     margin: auto;
     width: 30%;
 }
+.imgsize{
+    width: 100vw;
+    height: 100vh;
+}
