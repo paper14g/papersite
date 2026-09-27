@@ -101,4 +101,5 @@ h1{
 .imgsize{
     max-width: 100%;
     height: auto;
+    object-fit: cover;
 }
