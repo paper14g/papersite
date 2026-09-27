@@ -99,6 +99,6 @@ h1{
     width: 30%;
 }
 .imgsize{
-    width: 100vw;
-    height: 100vh;
+    max-width: 100%;
+    height: auto;
 }
