@@ -49,8 +49,8 @@ h1{
 }
 .projectimage{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    width: 75%;
 }
 .capt{
     color: #ffffff;
@@ -102,4 +102,6 @@ h1{
     width: 100vw;
     max-width: 100%;
     height: auto;
+    object-fit: contain;
+
 }
